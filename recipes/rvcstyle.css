@@ -1,0 +1,15 @@
+.big {
+    background-color: #8b0000;
+}
+
+h1 {
+    text-align: center;
+}
+
+.small, .content{
+    background-color: #f8b195;
+}
+
+.header {
+    color: white;
+}
