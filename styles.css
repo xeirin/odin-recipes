@@ -1,4 +1,26 @@
+body {
+    box-sizing: border-box;
+}
+
 h1 {
     background-color: #ffdbbb;
     text-align: center;
+}
+
+.button {
+    padding: 10px;
+}
+
+.cb {
+    background-color: rgb(255, 255, 146);
+}
+
+.rvccb {
+    background-color: darkred;
+    color: white;
+}
+
+.pp {
+    background-color: orangered;
+    color: white;
 }
