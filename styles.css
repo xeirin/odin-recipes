@@ -17,7 +17,7 @@ h1 {
     padding: 15px;
     margin: 30px 20px;
     display: inline-flex;
-    height: 50px;
+    height: 70px;
     width: 200px;
 }
 
@@ -38,5 +38,5 @@ h1 {
 
 .title {
     margin: 10px auto;
-    font
+    font-size: 18px;
 }
